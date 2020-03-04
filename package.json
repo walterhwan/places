@@ -1,5 +1,6 @@
 {
   "name": "places",
+  "homepage": "http://walterhwan.github.io/places",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
