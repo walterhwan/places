@@ -7,4 +7,12 @@
   /* justify-content: center; */
   color: white;
   background-color: #282c34;
+
+  @media (min-width: 600px) {
+    background-color: green;
+  }
+}
+
+.login-button {
+  width: 120px;
 }
